@@ -1,5 +1,5 @@
 {
-  "name": "withProps",
+  "name": "with-props",
   "version": "0.1.0",
   "description": "map object with props",
   "main": "lib/index.js",
@@ -12,17 +12,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ruanyl/withProps.git"
+    "url": "git+https://github.com/ruanyl/with-props.git"
   },
   "keywords": [
-    "withProps"
+    "with-props"
   ],
   "author": "Ruan Yulong <ruanyu1@gmail.com> (http://github.com/ruanyl)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ruanyl/withProps/issues"
+    "url": "https://github.com/ruanyl/with-props/issues"
   },
-  "homepage": "https://github.com/ruanyl/withProps",
+  "homepage": "https://github.com/ruanyl/with-props",
   "dependencies": {
     "lodash.isfunction": "^3.0.8",
     "ramda": "^0.24.1"
